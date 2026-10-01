@@ -102,3 +102,5 @@ cv2.imshow('TOZERO_INV',thr5)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
+
+print("Alonso Lopez NC = 0087")
